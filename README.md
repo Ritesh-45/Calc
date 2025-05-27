@@ -87,7 +87,8 @@ Department of CSE - AI & Robotics 🧠🤖
 
 ## 📷 Screenshots
 
-> _You can add screenshots here of the UI, subject search feature, and result display._
+![image](https://github.com/user-attachments/assets/5241b40b-cc2a-4a67-adb0-7194283a3141)
+
 
 ---
 
