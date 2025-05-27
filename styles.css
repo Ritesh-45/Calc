@@ -1,0 +1,266 @@
+@font-face {
+    font-family: 'Digital7';
+    src: url('font/Digital-7.woff2') format('woff2'),
+        url('font/Digital-7.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #1a1a1a;
+    display: flex;
+    position: relative;
+}
+.main_container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    z-index: 1;
+    position: relative;
+    padding: 20px;
+    padding-right: 100px;
+}
+.name{
+    z-index: 2;
+    writing-mode: sideways-lr;
+    width: fit-content;
+    height: 99.5vh;
+    position: fixed;
+    padding-top: 20px;
+    p{
+        color: white;
+        font-family: 'Orbitron', sans-serif;
+        font-size: 60px;
+        margin: 0;
+        text-align: end;
+    }
+}
+.calc_container{
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    border-radius: 30px;
+    background-color: #2C2C2C;
+    box-shadow:
+        inset 5px 5px 10px rgba(255, 255, 255, 0.15), 
+        inset -5px -5px 10px rgba(0, 0, 0, 0.3),           
+        15px 15px 30px rgba(0, 0, 0, 0.6);               
+}
+.screen_container{
+    background-color: #767c5b;
+    height: 125px;
+    width: 700px;
+    border-radius: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    p{
+        font-family:'Digital7', monospace;
+        font-size: 100px;
+    }
+}
+.button_container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 15px;
+    button{
+        all:unset;
+        cursor: pointer;
+        background-color: #FF8C42;
+        padding: 10px;
+        width: 100px;
+        text-align: center;
+        font-family:'Orbitron', sans-serif;
+        font-size: larger;
+        border-radius: 20px;
+        box-shadow:
+        inset 5px 5px 10px rgba(255, 255, 255, 0.25), 
+        inset -5px -5px 10px rgba(0, 0, 0, 0.3),       
+        15px 15px 30px rgba(0, 0, 0, 0.5);            
+    }
+    button:hover{
+        background-color: #FFA65C;
+    }
+    button:active {
+        background-color: #E07B32;
+    }
+}
+.field_container{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.entry{
+    border-top: 1px solid gray;
+    margin-bottom: 20px;
+}
+.up{
+    label{
+        color: white;
+        font-family: 'Orbitron', sans-serif;
+        font-size: 40px;
+    }
+}
+.down{
+    display: flex;
+    label{
+        color: white;
+        font-family: 'Orbitron', sans-serif;
+        font-size: 30px;
+    }
+    input{
+        all:unset;
+        border-bottom: 1px solid white;
+        margin-left: 20px;
+        caret-color: white;
+        color: white;
+        font-family: 'Orbitron', sans-serif;
+        width: 190px;
+        text-align: center;
+        font-size: 30px;
+    }
+    p{
+        width: 47px;
+    }
+}
+.search{
+    z-index: 2;
+    width: 350px;
+    height: 99.5vh;
+    position: fixed;
+    padding-top: 40px;
+    right: 0;
+    padding: 20px;
+}
+.search_container{
+    margin-top: 30px;
+    max-height: 350px;
+    overflow-y: auto;
+}
+#searchBox{
+    all: unset;
+    height: 30px;
+    width: 300px;
+    padding-inline: 20px;
+    caret-color: white;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    border-radius: 20px;
+    background-color: #2C2C2C;
+    position: fixed;
+    box-shadow:
+        inset 5px 5px 10px rgba(255, 255, 255, 0.25), 
+        inset -5px -5px 10px rgba(0, 0, 0, 0.3),       
+        15px 15px 30px rgba(0, 0, 0, 0.5);
+}
+#suggestions{
+    padding-top: 50px;
+    padding: 10px;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    overflow-x: hidden;
+    font-size: 17px;
+    z-index: 1000;
+}
+.fill{
+    height: 30px;
+}
+
+#resultsContainer{
+    margin-top: 20px;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 17px;
+    padding-top: 0;
+    padding-inline: 15px;
+}
+
+.remove_btn{
+    all: unset;
+    color: orange;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 800;
+}
+
+.suggestion-item{
+    border-bottom: 1px solid whitesmoke;
+    cursor: pointer;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.result-item{
+    border-bottom: 1px solid whitesmoke;
+    cursor: pointer;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+@media (max-width:430px){
+    html{
+        width: 100%;
+    }
+    body{
+        display: flex;
+        flex-direction: column;
+        position: static;
+    }
+    .name{
+        position: static;
+        z-index: 1;
+        height: fit-content;
+        width: 100%;
+        writing-mode: horizontal-tb;
+        display: flex;
+        justify-content: center;
+        padding-left: 20px;
+        p{
+            font-size: 30px;
+            text-align: center;
+        }
+    }
+    .main_container{
+        position: static;
+        z-index: 1;
+    }
+    .calc_container{
+        width: 300px;
+        padding: 20px;
+    }
+    .screen_container{
+        width: 280px;
+        height: 60px;
+        p{
+            font-size: 40px;
+        }
+    }
+    .button_container{
+        display: flex;
+        justify-content: space-between;
+    }
+    .up{
+        label{
+            font-size: 20px;
+        }
+    }
+    .down{
+        label{
+            font-size: 15px;
+        }
+        input{
+            width: 60px;
+            font-size: 15px;
+            height: 15px;
+            margin-left: 10px;
+        }
+    }
+    .entry{
+        margin-bottom: 0px;
+        padding-top: 8px;
+    }
+}
+
