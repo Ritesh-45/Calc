@@ -87,7 +87,7 @@ Department of CSE - AI & Robotics 🧠🤖
 
 ## 📷 Screenshots
 
-![image](https://github.com/user-attachments/assets/5241b40b-cc2a-4a67-adb0-7194283a3141)![Screenshot 2025-05-28 005754](https://github.com/user-attachments/assets/ba2120b2-e958-4d12-bd55-d0319005c888)
+![Screenshot 2025-05-28 005754](https://github.com/user-attachments/assets/ba2120b2-e958-4d12-bd55-d0319005c888)
 
 
 
