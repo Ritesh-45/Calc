@@ -19,7 +19,7 @@ body{
     z-index: 1;
     position: relative;
     padding: 20px;
-    padding-right: 100px;
+    padding-right: 170px;
 }
 .name{
     z-index: 2;
@@ -28,12 +28,19 @@ body{
     height: 99.5vh;
     position: fixed;
     padding-top: 20px;
-    p{
+    .p1{
         color: white;
         font-family: 'Orbitron', sans-serif;
         font-size: 60px;
         margin: 0;
         text-align: end;
+    }
+    .p2{
+        font-family: 'Orbitron', sans-serif;
+        font-size: 20px;
+        color: #FF8C42;
+        text-align: end;
+        margin: 0;
     }
 }
 .calc_container{
@@ -129,22 +136,21 @@ body{
 }
 .search{
     z-index: 2;
-    width: 350px;
+    width: 300px;
     height: 99.5vh;
     position: fixed;
     padding-top: 40px;
     right: 0;
-    padding: 20px;
 }
 .search_container{
-    margin-top: 30px;
+    margin-top: 10px;
     max-height: 350px;
     overflow-y: auto;
 }
 #searchBox{
     all: unset;
     height: 30px;
-    width: 300px;
+    width: 240px;
     padding-inline: 20px;
     caret-color: white;
     color: white;
@@ -163,15 +169,17 @@ body{
     color: white;
     font-family: 'Orbitron', sans-serif;
     overflow-x: hidden;
+    overflow-y: hidden;
     font-size: 17px;
     z-index: 1000;
+    width: 230px;
 }
 .fill{
     height: 30px;
 }
 
 #resultsContainer{
-    margin-top: 20px;
+    margin-top: 10px;
     color: white;
     font-family: 'Orbitron', sans-serif;
     font-size: 17px;
@@ -284,3 +292,4 @@ body{
         padding-top: 6px;
     }
 }
+
