@@ -208,7 +208,7 @@ body{
     padding-bottom: 8px;
 }
 
-@media (max-width:380px){
+@media (max-width:380px){ /* Medium phones */
     .search{
         display: none;
     }
