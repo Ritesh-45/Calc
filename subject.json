@@ -1,0 +1,318 @@
+[
+ {
+  "Subject Name": "TECHNICAL ENGLISH",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "CALCULUS AND NUMERICAL METHODS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "PHYSICS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "PROGRAMING IN C",
+  "Credit": 4
+ },
+ {
+  "Subject Name": "PHYSICS LAB",
+  "Credit": 1
+ },
+ {
+  "Subject Name": "DISCRETE STRUCTURE ",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "CHEMISTRY",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "ENGINEERING GRAPHICS USING CAD",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "FUNDAMENTAL OF ROBOTICS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "PROGRAMING IN PYTHON",
+  "Credit": 4
+ },
+ {
+  "Subject Name": "DATA STRUCTURE AND ALGORITHM",
+  "Credit": 4
+ },
+ {
+  "Subject Name": "CHEMISTRY LAB",
+  "Credit": 1
+ },
+ {
+  "Subject Name": "MATRICES AND LINEAR ALGEBRA",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "COMPUTER ARCHECTECTURE AND ORGANIZATION",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "UNIVERSAL HUMAN VALUES",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "THEORY OF COMPUTATION",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "FOUNDATION OF ARTIFICIAL INTELLIGENCE",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "ROBOT ACTUATORS",
+  "Credit": 4
+ },
+ {
+  "Subject Name": "SENSOR AND INTELLIGENT INSTRUMENTATION",
+  "Credit": 4
+ },
+ {
+  "Subject Name": "PROBABILITY AND STATISTICS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "OPERATING SYSTEM AND UNIX",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "DATABASE MANAGEMENT SYSTEM",
+  "Credit": 4
+ },
+ {
+  "Subject Name": "SOFTWARE ROBOT DESIGN",
+  "Credit": 4
+ },
+ {
+  "Subject Name": "DESIGN THINKING AND INNOVATIONS",
+  "Credit": 2
+ },
+ {
+  "Subject Name": "DATA COMMMUNICATION AND COMPUTER NETWORS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "MACHINE LEARNING FOR ROBOTICS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "COMPUTER INTELLIGENCE",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "BIG DATA ANALYTICS FOR AI",
+  "Credit": 4
+ },
+ {
+  "Subject Name": "NEURAL NETWORKS USING MATLAB",
+  "Credit": 2
+ },
+ {
+  "Subject Name": "OPTIMIZATION TECHNIQUES FOR COMPUTING",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "INTRODUCTION TO MECHANICAL SYSTEMS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "ROBOTIC PERCEPTION",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "ROBOT PROGRAMMING 4",
+  "Credit": 4
+ },
+ {
+  "Subject Name": "COMPUTER VISION",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "COMPUTER VISION LAB",
+  "Credit": 2
+ },
+ {
+  "Subject Name": "DATA MINING AND DATA WAREHOUSING",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "ADVANCE COMPUTER NETWORKS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "WEB PROGRAMING THROUGH PHP AND HTML",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "APPLICATION OF MACHINE LEARNING INDUSTRIES",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "MATHAMATICS FOR INTELLIGENT SYSTEM",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "NATURAL LANGUAGE PROCESSING",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "APPLICATION OF AI",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "COMPREHENSIVE LINUX",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "AI IN SPEECH RECOGNITION",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "FUNDAMANTAL OF DIGITAL SYSTEMS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "HEALTH CARE ANALYTICS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "DIGITAL IMAGE PROCESSING",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "FUNDAMENTALS OF FUZZY LOGIC AND NEURAL NETWORKS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "DEEP REINFORCEMENT LEARNING",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "INTELLIGENT EMBEDDED SYSTEMS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "INTELLIGENT ROBOT AND DRONE TECHNOLOGY",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "CYBER FORENSICS AND INFORMATION SECURITY",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "AI FOR GAMING",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "INDUSTRIAL ROBOTICS AND EXPERT SYSTEMS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "INTRODUCTION TO VIRTUAL REALITY",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "UI \/ UX DESIGN",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "NEURAL NETWORD AND DEEP LEARNING",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "PATTERN RECOGNITION AND IMAGE VISION",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "HARDWARE INTERFACE AND ITS APPLICATION",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "SYSTEM MODELING AND SIMULTION",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "OPEN-SOURCE SYSTEMS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "MOBILE APPLICATION DEVELOPMENT",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "UNMANNED AERIAL VEHICLE DESIGN",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "ROBOTICS AND MACHINE VISION SYSTEM",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "CYBER PHYSICAL SYSTEM",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "KNOWLEDGE MANAGEMENT SYSTEM",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "WIRELESS SENSOR NETWORK AND ARTECTURE",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "PERFORMANCE EVALUATION OF COMPUTERS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "ROBOTICS AND AUTOMATION",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "DIGITAL TRANSFORMATION AND FUTURE SOCIETIES",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "SOFT COMPUTING",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "PRINCIPLES ANDPRACTICES OF MANAGEMENT",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "VENTURE CREATION",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "SOFTWARE PROJECT MANAGEMENT",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "SMART PRODUCT DEVELOPMENT",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "EXPLORATORY DATA ANALYSIS",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "DATA INFORMATION AND SCIENCE",
+  "Credit": 3
+ },
+ {
+  "Subject Name": "MACHINE LEARNING ESSENTIALS",
+  "Credit": 4
+ }
+]
