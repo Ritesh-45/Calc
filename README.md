@@ -2,6 +2,9 @@
 
 A sleek, dynamic CGPA Calculator built using HTML, CSS, and JavaScript. This tool allows students to input their subject marks and credits manually or search from a preloaded subject list using an Excel sheet.
 
+## Live Demo
+
+> [Click here to view the live portfolio](https://myproject-nine-smoky.vercel.app/
 ---
 
 ## 🚀 Features
