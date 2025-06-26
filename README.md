@@ -6,7 +6,7 @@ A sleek, dynamic CGPA Calculator built using HTML, CSS, and JavaScript. This too
 
 ## Live Demo
 
-> [Click here to view the live portfolio](https://ritesh-45.github.io/Calc/)
+> [Click here to view the live site](https://ritesh-45.github.io/Calc/)
 ---
 
 ## 🚀 Features
