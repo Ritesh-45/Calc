@@ -31,13 +31,13 @@ A sleek, dynamic CGPA Calculator built using HTML, CSS, and JavaScript. This too
 
 ## 📁 Project Structure
 
-📦 CGPA-Calculator/
-├── index.html # Main web structure
-├── styles.css # All styling and responsiveness
-├── script.js # Logic for CGPA calculation and subject search
-├── subjects.xlsx # (Place this Excel file in root for search feature)
-├── font/ # Digital-7 font files
-└── README.md # Project documentation
+📦 CGPA-Calculator/<br>
+├── index.html # Main web structure<br>
+├── styles.css # All styling and responsiveness<br>
+├── script.js # Logic for CGPA calculation and subject search<br>
+├── subjects.xlsx # (Place this Excel file in root for search feature)<br>
+├── font/ # Digital-7 font files<br>
+└── README.md # Project documentation<br>
 
 
 ---
